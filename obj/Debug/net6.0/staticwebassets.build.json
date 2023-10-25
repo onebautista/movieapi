@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "OSu15/OPWWgnep4HIpsRenN/E8HK/OWhjzIMp3qf15Q=",
+  "Source": "ApiPeliculas",
+  "BasePath": "_content/ApiPeliculas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ApiPeliculas\\wwwroot",
+      "Source": "ApiPeliculas",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\PROJECTS\\testing\\ApiPeliculas\\wwwroot\\",
+      "BasePath": "_content/ApiPeliculas",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

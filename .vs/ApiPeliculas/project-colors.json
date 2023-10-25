@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "f71ba8b3-a03f-4e8f-9093-140887fa78ec": {
+      "ProjectGuid": "f71ba8b3-a03f-4e8f-9093-140887fa78ec",
+      "DisplayName": "ApiPeliculas",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
